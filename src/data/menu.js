@@ -1,0 +1,8 @@
+export const menuItems = [
+{id:'chocolate-cake',name:'Chocolate Celebration Cake',category:'Cakes',tag:'Celebration classic',description:'Chocolate layers for birthdays, milestones and just-because moments.',image:'https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1000&q=85'},
+{id:'cream-slice',name:'Creamy Cake Slices',category:'Desserts',tag:'A little indulgence',description:'A sweet pause for your coffee break, catch-up or afternoon craving.',image:'https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=1000&q=85'},
+{id:'brownie',name:'Chocolate Treats',category:'Desserts',tag:'For chocolate lovers',description:'Chocolate-forward treats for when only something sweet will do.',image:'https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1000&q=85'},
+{id:'bakery-favourites',name:'Bakery Favourites',category:'Bakery',tag:'Fresh from the bakery',description:'A comforting selection for everyday cravings and little celebrations.',image:'https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1000&q=85'},
+{id:'sweet-treats',name:'Sweet Treats',category:'Bakery',tag:'A little sweet moment',description:'Small delights to brighten your day and share with someone special.',image:'https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=1000&q=85'},
+{id:'occasion-cake',name:'Occasion Cakes',category:'Cakes',tag:'Made for moments',description:'Ask the team about cake options for birthdays and special occasions.',image:'https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=1000&q=85'}
+];

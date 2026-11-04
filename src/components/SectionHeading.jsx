@@ -1,0 +1,1 @@
+import React from 'react';export default function SectionHeading({eyebrow,title,description}){return <div className="section-heading reveal"><div><div className="eyebrow">{eyebrow}</div><h2>{title}</h2></div>{description&&<p>{description}</p>}</div>}

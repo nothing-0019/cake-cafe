@@ -1,0 +1,1 @@
+import React from 'react';import {MessageCircle} from 'lucide-react';import {business} from '../data/business.js';export function FloatingOrder(){return <a className="floating-order" href={`https://wa.me/${business.whatsapp}?text=Hi%20Cake%20Cafe%2C%20I%27d%20like%20to%20ask%20about%20ordering.`} target="_blank" rel="noreferrer"><MessageCircle size={16}/> WhatsApp Order</a>}
